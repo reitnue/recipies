@@ -2,4 +2,4 @@
 my recipies
 
 ## TODO
-- [ ] chickpea yogurt
+- [ ] chickpea yogurt [recipie](https://okonomikitchen.com/chickpea-yogurt/)
